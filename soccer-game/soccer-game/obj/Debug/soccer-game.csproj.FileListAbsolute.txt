@@ -1,0 +1,6 @@
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\soccer-game\soccer-game\bin\Debug\soccer-game.exe.config
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\soccer-game\soccer-game\bin\Debug\soccer-game.exe
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\soccer-game\soccer-game\bin\Debug\soccer-game.pdb
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\soccer-game\soccer-game\obj\Debug\soccer-game.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\soccer-game\soccer-game\obj\Debug\soccer-game.exe
+C:\Users\Alan\Desktop\UADE\Segundo año\Primer cuatrimestre\Programación 2\soccer-game\soccer-game\obj\Debug\soccer-game.pdb
